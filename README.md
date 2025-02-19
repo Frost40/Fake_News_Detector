@@ -65,7 +65,7 @@ You can install the required libraries using the following command:
 
 ## Results
 
-The model achieves an accuracy of **92.8%** on the test dataset. Below is a confusion matrix showing the performance of the model:
+The model achieves an accuracy of **92.42%** on the test dataset. Below is a confusion matrix showing the performance of the model:
 
 ![Confusion Matrix](images/confusion_matrix.png)
 
