@@ -38,12 +38,14 @@ You can install the required libraries using the following command:
 ## Project structure
 ```
   fake-news-detection/
-  ├── idea/                    # Folder containing project ideas or brainstorming notes
-  ├── data/                    # Folder containing the dataset
-  │   └── news.csv             # Combined dataset of fake and real news
-  ├── README.md                # Project documentation
-  ├── requirements.txt         # List of dependencies
-  └── sample.ipynb             # Jupyter notebook for experimentation and analysis
+  ├── idea/                      # Folder containing project ideas or brainstorming notes
+  ├── images/                    # Folder containing images related to the project
+  │   └── confusion_matrix.png   # Screenshot of the confusion matrix
+  ├── data/                      # Folder containing the dataset
+  │   └── news.csv               # Combined dataset of fake and real news
+  ├── README.md                  # Project documentation
+  ├── requirements.txt           # List of dependencies
+  └── sample.ipynb               # Jupyter notebook for experimentation and analysis
 ```
 
 ## How to Run
